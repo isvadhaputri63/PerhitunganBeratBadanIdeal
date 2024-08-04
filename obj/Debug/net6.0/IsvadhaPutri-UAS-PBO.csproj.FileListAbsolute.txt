@@ -1,0 +1,15 @@
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\bin\Debug\net6.0\IsvadhaPutri-UAS-PBO.exe
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\bin\Debug\net6.0\IsvadhaPutri-UAS-PBO.deps.json
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\bin\Debug\net6.0\IsvadhaPutri-UAS-PBO.runtimeconfig.json
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\bin\Debug\net6.0\IsvadhaPutri-UAS-PBO.dll
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\bin\Debug\net6.0\IsvadhaPutri-UAS-PBO.pdb
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\obj\Debug\net6.0\IsvadhaPutri-UAS-PBO.csproj.AssemblyReference.cache
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\obj\Debug\net6.0\IsvadhaPutri-UAS-PBO.GeneratedMSBuildEditorConfig.editorconfig
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\obj\Debug\net6.0\IsvadhaPutri-UAS-PBO.AssemblyInfoInputs.cache
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\obj\Debug\net6.0\IsvadhaPutri-UAS-PBO.AssemblyInfo.cs
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\obj\Debug\net6.0\IsvadhaPutri-UAS-PBO.csproj.CoreCompileInputs.cache
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\obj\Debug\net6.0\IsvadhaPutri-UAS-PBO.dll
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\obj\Debug\net6.0\refint\IsvadhaPutri-UAS-PBO.dll
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\obj\Debug\net6.0\IsvadhaPutri-UAS-PBO.pdb
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\obj\Debug\net6.0\IsvadhaPutri-UAS-PBO.genruntimeconfig.cache
+F:\[UNSIA]\Semester\Semester 1\Pemrograman Berorientasi Objek DONE 15 - UAS MINGGU 4 AGUSTUS\Sesi 16\Project\IsvadhaPutri-UAS-PBO\obj\Debug\net6.0\ref\IsvadhaPutri-UAS-PBO.dll
